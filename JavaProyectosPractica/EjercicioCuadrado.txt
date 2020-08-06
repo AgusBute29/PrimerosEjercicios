@@ -1,0 +1,7 @@
+Algoritmo EjCuadrado
+	Definir peri, lado como entero
+	Escribir "Ingrese el lado del cuadrado: "
+	Leer lado
+	peri <- lado * 4
+	Escribir "El perimetro del cuadrado es: ", peri
+FinAlgoritmo
